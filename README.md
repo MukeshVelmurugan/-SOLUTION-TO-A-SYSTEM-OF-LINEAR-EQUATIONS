@@ -26,7 +26,8 @@ print (xy)
 ```
 
 ## Output:
-![model](/linear%20output.png)
+![linear output](https://user-images.githubusercontent.com/118707363/211730709-0656b97c-a4d6-434c-bda7-16202ff9b4c0.png)
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
